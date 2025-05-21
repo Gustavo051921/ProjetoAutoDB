@@ -1,0 +1,31 @@
+Pessoas( ID, Nome, Cpf)
+
+Pessoas_RG( RG, Emissor_RG, nacionalidade)
+
+Dados ( Id_dados, Data, Titulo)
+
+Dados_titulo(Id_titulo, seção, Zona)
+
+Status( Id_status, Genero, Estado_civil, Cor)
+
+Dependentes( Id, nome, CPF)
+
+Endereço(Id, Rua, numero, bairro)
+
+Telefone( Id, Fone, Celular)
+
+Filiação_Mae( ID_Mae, Nome_Mae, Cpf)
+
+FiliaçãoPai( ID_Pai, Nome_Pai, Cpf)
+
+
+Profissional( ID_profissional, Cargo)
+
+Escolaridade( Id, nível, Formação, onde estuda)
+
+Escolaridade_Estudar (ID, voltar estudar, estudo pretendido)
+
+
+Religiosidade( Id_religião, religião)
+
+socio(Id_socio, Associação, sindicato, clube)
